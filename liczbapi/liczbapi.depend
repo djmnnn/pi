@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1791448296 source:c:\users\uczeñ16\desktop\programy\liczbapi\main.cpp
+	<iostream>
+	<fstream>
+
